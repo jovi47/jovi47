@@ -2,9 +2,8 @@
 
 Criador de softwares e soluções, sempre em aprendizado! <br>
 
-Trabalhando em: 
-<br> 
-<img align="center" src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" />
+Trabalhando em:  
+<img align="right" width="200" src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" />
 
 <hr>
 
