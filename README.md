@@ -52,7 +52,7 @@ Trabalhando em:
 </a>
 </div>
 
-<hr size = "0.5">
+<hr size = "1">
 
 <div>
   <a href="https://instagram.com/joaov_47" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
