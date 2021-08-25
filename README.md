@@ -36,6 +36,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## **GitHub Estatísticas**
 
+<div>
 <a href="https://github.com/jovi47">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovi47&theme=dracula&hide_langs_below=1" />
 </a>
@@ -43,7 +44,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <a href="https://github.com/jovi47">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovi47&show_icons=true&theme=dracula&line_height=27" alt="**João Victor** github stats"/>
 </a>
-
+</div>
 
 
 #### Rede Sociais!
