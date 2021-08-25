@@ -1,10 +1,10 @@
 ### Fala dev! 👋
 
 Criador de softwares e soluções, sempre em aprendizado! <br>
-
+<div>
 Trabalhando em:  
 <img align="center-right" width="200" src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" />
-
+<div>
 
 <img width="45" alt="about" src="https://raw.github.com/jovi47/jovi47/master/info.png"> Mais sobre mim
 
