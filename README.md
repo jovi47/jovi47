@@ -2,7 +2,9 @@
 
 Criador de softwares e soluções, sempre em aprendizado! 
 
-<a ><img src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" value= "Trabalhando em:" target="_blank"></a>
+<a href="https://github.com/jovi47">
+  <img align="center" src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" />
+</a>
 
 <img width="45" alt="about" src="https://raw.github.com/jovi47/jovi47/master/info.png"> Mais sobre mim
 
