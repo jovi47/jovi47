@@ -1,7 +1,7 @@
 ### Fala dev! 👋
 
 Criador de softwares e soluções, sempre em aprendizado! <br>
-<div>
+<div text-align="center">
 Trabalhando em:    
 <img  width="200" src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" />
 <div>
