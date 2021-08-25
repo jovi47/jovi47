@@ -1,6 +1,6 @@
-### Oie devs 👋
+### Fala dev! 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Criador de softwares e soluções, sempre em aprendizado! 
 
 <img width="45" alt="about" src="https://raw.github.com/jovi47/jovi47/master/info.png"> Mais sobre mim
 
