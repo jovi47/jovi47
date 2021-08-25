@@ -8,7 +8,7 @@ Criador de softwares e soluções, sempre em aprendizado! <br>
 <br>
 <img width="45" alt="about" src="https://raw.github.com/jovi47/jovi47/master/info.png"> Mais sobre mim
 
-<img align="right" width="280" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
 
 ```Java
  class Pessoa {
