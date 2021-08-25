@@ -6,10 +6,11 @@ Criador de softwares e soluções, sempre em aprendizado! <br>
 <img  width="200" src="https://www.xprocess.com.br/wp-content/uploads/2019/06/logo_xprocessP.png" />
 <div>
 <br>
+ <div>
 <img width="45" alt="about" src="https://raw.github.com/jovi47/jovi47/master/info.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
-
+<img align="right" width="250" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" />
+ </div>
 ```Java
  class Pessoa {
 
