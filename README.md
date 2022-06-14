@@ -25,6 +25,7 @@
 </div>
 
 <br>
+<div style="display:flex; flex-direction:row;">
 <img height="40" src="images/java.png">
 <img style="margin-left:3px;" height="40" src="images/javascript.png">
 <img style="margin-left:3px;" height="40" src="images/html.png">
@@ -36,6 +37,7 @@
 <img style="margin-left:3px;" height="40" src="./images/git.png">
 <img style="margin-left:3px;" height="40" src="./images/elixir.png">
 <img style="margin-left:3px;" height="40" src="./images/phoenix.png">
+</div>
 <br><br>
 
 ## **GitHub Statistics**
