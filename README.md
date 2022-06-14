@@ -2,11 +2,8 @@
 
 #### I'm a Software Developer with 1+ years experience, addicted to solve problem.
 
- <h2 text-align="center">Currently working at</h2>    
- <a href="https://www.stone.com.br/">
-<img  height="40" src="images/stone.png">
-</a>
-<br>
+ <h2 text-align="center">I'm 2022 I pretend to start some personal projects and help some open-sources to.</h2>    
+
 <br>
 
 <div style="max-width:800px;">
