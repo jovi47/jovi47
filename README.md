@@ -1,6 +1,6 @@
 ## João Victor S.
 
-### Currently solving problems using Elixir and Phoenix, and learnig more about linux 😀
+### Currently solving problems using Elixir and Phoenix, and learning more about linux 😀
 
 ```elixir
  about = %{
