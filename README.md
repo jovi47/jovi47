@@ -19,7 +19,7 @@ Construo sistemas, sites e automações com foco no problema de quem usa. Trabal
 
 ### Projetos selecionados
 
-- **[HorAgora](https://ohoragora.com.br)** — produto próprio em desenvolvimento contínuo.
+- **[HorAgora](https://horagora.com.br)** — produto próprio em desenvolvimento contínuo.
 - **[Andréa Sousa Consultoria](https://andreasousaconsultoria.com.br)** — site institucional para apresentar serviços e receber solicitações de contato.
 
 Meu GitHub público também reúne projetos anteriores em Java: [xadrez em terminal](https://github.com/jovi47/Chess-Java) e [aplicação JavaFX com JDBC](https://github.com/jovi47/WorkShop-JavaFX-JDBC).
@@ -47,7 +47,7 @@ I build software, websites and automations around the needs of the people using 
 
 ### Selected projects
 
-- **[HorAgora](https://ohoragora.com.br)** — my own product, under ongoing development.
+- **[HorAgora](https://horagora.com.br)** — my own product, under ongoing development.
 - **[Andréa Sousa Consultoria](https://andreasousaconsultoria.com.br)** — a business website that presents services and receives contact requests.
 
 Earlier Java projects: [terminal chess](https://github.com/jovi47/Chess-Java) and a [JavaFX application with JDBC](https://github.com/jovi47/WorkShop-JavaFX-JDBC).
