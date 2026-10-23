@@ -1,0 +1,5 @@
+/.worktrees/
+/.private/
+/ACESSOS.local.md
+/.env
+/.env.*
