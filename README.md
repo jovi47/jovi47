@@ -1,13 +1,10 @@
-<p align="center">
-  <a href="https://ojoaovsousa.pages.dev/en/">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="images/jovi-avatar.png">
-      <img src="images/jovi-avatar.gif" width="160" height="160" alt="My 3D toy-brick avatar greeting visitors">
-    </picture>
-  </a>
-</p>
-
-# João Victor
+<h1>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="images/jovi-avatar.png">
+    <img src="images/jovi-avatar.gif" width="56" height="56" align="absmiddle" alt="">
+  </picture>
+  João Victor
+</h1>
 
 **Backend Software Engineer · Elixir & Phoenix**
 
