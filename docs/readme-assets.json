@@ -1,6 +1,6 @@
 {
   "updated_utc": "2026-11-03",
-  "purpose": "English GitHub profile README media",
+  "purpose": "English personal GitHub profile README media",
   "avatar": {
     "source_webm_sha256": "e9ca5e237cd57e607302f713936ede131ffa9157992eafe366bc6d199a65cd38",
     "motion": "Existing rigid turn and small hop; not an articulated hand wave. Separate approved presentation from the later Brick Figure used in the portfolio scene.",
@@ -15,7 +15,7 @@
     "https://www.sicredi.com.br/home/"
   ],
   "technology_source": "https://github.com/devicons/devicon/tree/6a37858047b0e8d9c9c0e68f4a071fc410652e89",
-  "licenses": "images/LICENSE.txt covers Devicon artwork; project/employer marks retain their owners’ rights.",
+  "licenses": "images/LICENSE.txt covers Devicon; images/TECHNOLOGY-LICENSES.txt retains portfolio source notices including Simple Icons CC0 and Git CC BY3.0. Project/employer marks and Oban retain their owners’ rights; concept icons are project-owned.",
   "assets": [
     {
       "file": "images/jovi-avatar.gif",
@@ -106,6 +106,152 @@
       "bytes": 1072,
       "sha256": "121194741d4a915b9f5890fdd6dd95121f9b1f816517c792358d72d7c838d664",
       "source": "Devicon MIT license, copyright (c) 2015 konpa."
+    },
+    {
+      "file": "images/ecto.svg",
+      "bytes": 1194,
+      "sha256": "f74138718e068865eedd4ed86e8bb592247cc2600cccd92d0a765e034661b7b8",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/ecto/ecto-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/oban.svg",
+      "bytes": 4030,
+      "sha256": "08360e5ac4661115eaf9e0eb9b44991b14eb92ddfb11c58fac77d6753d092f98",
+      "source": "https://oban.pro/images/brand/oban-oss-logo-1a17667ab8c2830e04ad04ee55b42fa0.svg?vsn=d",
+      "license": "Official Oban OSS brand asset; underlying brand rights retained"
+    },
+    {
+      "file": "images/spring-boot.svg",
+      "bytes": 1001,
+      "sha256": "3f2c5ea434f1c770883ed26e393dbeade25c2cc4ae9f62aaa1fd682b2a00d331",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/c71c69e3a27e4436936b831c72643e6513b9f49b/icons/springboot.svg",
+      "license": "CC0-1.0 (Simple Icons collection)"
+    },
+    {
+      "file": "images/javascript.svg",
+      "bytes": 1144,
+      "sha256": "0656ff65fc8eeacda5c78d7f9ffe91ec1eb919db64f56e0b7dcd460af4bbd36c",
+      "source": "Devicon original-color asset reused unchanged from the published portfolio.",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/typescript.svg",
+      "bytes": 943,
+      "sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/typescript/typescript-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/react.svg",
+      "bytes": 2387,
+      "sha256": "5825b649c8c04dec13ecf01d0182401bd0ec71789d2fa06224866d882cd1515f",
+      "source": "Devicon original-color asset reused unchanged from the published portfolio.",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/nextjs.svg",
+      "bytes": 749,
+      "sha256": "d9435c4ede7133b376c0173a80226bb3856729366707cd96e9a66e39448d0288",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/nextjs/nextjs-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/kubernetes.svg",
+      "bytes": 8951,
+      "sha256": "fb31e4163238978201cfde0601728ee5168b74e476c32c37739bed626fa281ae",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/kubernetes/kubernetes-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/fly.svg",
+      "bytes": 843,
+      "sha256": "c7cfc96ff24e08ccd665bd3fe441abab0c9c067549ec688f0315ddf41df8f22d",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/c71c69e3a27e4436936b831c72643e6513b9f49b/icons/flydotio.svg",
+      "license": "CC0-1.0 (Simple Icons collection)"
+    },
+    {
+      "file": "images/graphql.svg",
+      "bytes": 1550,
+      "sha256": "1fafe03a1f77be5a1c25c20db6e52f292ed8ae5a9b2536f807ee2a3d2e78d3d3",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/graphql/graphql-plain.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/rabbitmq.svg",
+      "bytes": 634,
+      "sha256": "3aad30605375d85bd2fc293880be7e1b07def3f7191c8f063feb775cca5b7006",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/rabbitmq/rabbitmq-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/python.svg",
+      "bytes": 2300,
+      "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/python/python-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/mongodb.svg",
+      "bytes": 5611,
+      "sha256": "d9f2bf7041264f4747e9969fb82ede0199c0ac97dfa8632aa0687d702ec05f7b",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/mongodb/mongodb-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/mysql.svg",
+      "bytes": 2765,
+      "sha256": "f73fa5d6b9da33fbf540ff96f5360c24b6d29d883ecfe6fcaecf89a8d3456067",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/mysql/mysql-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/git.svg",
+      "bytes": 778,
+      "sha256": "717a57ea97bf7e86de721dab3e68afac66332a10676d5c9abce4ae6a5a9c9983",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/git/git-original.svg",
+      "license": "MIT (Devicon collection); Git artwork CC-BY-3.0 by Jason Long"
+    },
+    {
+      "file": "images/html.svg",
+      "bytes": 607,
+      "sha256": "34826e5b3315daadf4fa15f723a3c1d5ba4a89277bfd94e22ac4d7d3d54338c5",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/html5/html5-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/css.svg",
+      "bytes": 778,
+      "sha256": "36b7d94b657d571d3f94042acbf6a4c86a5301a222f83f4b4583ad2acf6e297d",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/css3/css3-original.svg",
+      "license": "MIT (Devicon collection); underlying brand rights retained"
+    },
+    {
+      "file": "images/rag.svg",
+      "bytes": 310,
+      "sha256": "393dfe7804be08f2eb4a27bb19716738511046fb00d968e3abcdd8c387dda169",
+      "source": "Original project interface symbol; not an official brand mark",
+      "license": "Project-owned original vector"
+    },
+    {
+      "file": "images/agents.svg",
+      "bytes": 304,
+      "sha256": "30a779b2a28db1ce7b71097424cf5e13254c512b37abc027d7896b536d02a00d",
+      "source": "Original project interface symbol; not an official brand mark",
+      "license": "Project-owned original vector"
+    },
+    {
+      "file": "images/3d.svg",
+      "bytes": 240,
+      "sha256": "a4e26a0ecd51c5b9baf78c040a1c304cda6ba20e3d617cc3a6617a434e7aed4d",
+      "source": "Original project interface symbol; not an official brand mark",
+      "license": "Project-owned original vector"
+    },
+    {
+      "file": "images/TECHNOLOGY-LICENSES.txt",
+      "bytes": 9688,
+      "sha256": "b3a2c65ffdafecba8d3e1930ecfa8a07788863d943fb37e136516d9766605a9a",
+      "source": "Published portfolio technology icon notices: CC0, Devicon MIT, Git CC BY3.0, project-owned concepts and original brand rights. Only a subset of the credited collection is used."
     }
   ]
 }
