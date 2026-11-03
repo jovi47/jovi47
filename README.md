@@ -1,7 +1,7 @@
 <h1>
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="images/jovi-avatar.png">
-    <img src="images/jovi-avatar.gif" width="56" height="56" align="middle" alt="">
+    <img src="images/jovi-avatar.gif" width="56" height="56" align="absmiddle" alt="">
   </picture>
   João Victor
 </h1>
