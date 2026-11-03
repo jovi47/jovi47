@@ -1,29 +1,27 @@
 # GitHub profile README
 
-Updated: 2026-11-03 UTC. The profile README uses English-only copy and leads with Elixir/Phoenix backend work for international remote opportunities. The approved animated avatar and work/project icons were published through PR3. This follow-up places the avatar beside the name, as requested by the owner, without changing the approved copy or media. The real-photo block removed in base f46bd480 is not restored.
+Updated: 2026-11-03 UTC. The current revision is an English personal introduction, with five-plus years of experience and Elixir first. The owner requested a lighter profile focused on projects, interests and a technology section resembling the portfolio. Work-history sections, employer metrics and CV-style skill bullets are removed from the visible README. No career fact is retracted or changed in the CVs or LinkedIn.
 
 ## Content and sources
 
-The README presents five-plus years across fintech, ERP and SaaS; Elixir/Phoenix risk and dispute work at Stone; the current Tools assignment to Sicredi; ASC-Hub and HorAgora; complementary Java/full-stack skills; and existing applied-AI/web/3D interests. Facts reuse the reconciled CVs and owner-approved profile copy. The owner confirmed US$3 million recovered and test coverage50%→95%; contribution to recovery systems does not imply sole ownership. No seniority, fluency, diploma or unsupported result was added.
+The short introduction reuses the approved portfolio About text: curiosity about technology, learning by building, LEGO, web/3D and applied AI/RAG/agents. Systems are introduced briefly: ASC-Hub, HorAgora and the personal portfolio. No new hobby, seniority, language fluency or result is invented. Public contact remains ojoaovsousa@gmail.com and the portfolio uses its published English route.
 
-Public contact: ojoaovsousa@gmail.com. Main portfolio link: the published English route. The sidebar bio and Website are updated separately through the normal profile UI because the connected plugin has no suitable profile-write tool. Authentication and email-privacy settings are outside this change.
+The name heading preserves the56px inline GIF and reduced-motion PNG fallback from PR4. The real account photograph and portfolio scene are outside this revision.
 
-## Media and accessibility
+## Technology presentation
 
-The header reuses the owner's existing approved 3D presentation as a small GIF:256×256,12fps,30frames,2.5seconds,one playback. This is a rigid turn/hop, not a hand-wave animation. It is a preserved presentation asset, distinct from the later Brick Figure selected for the portfolio scene. No model, face or character was generated or altered; only the encoded presentation was converted. The portfolio's retired resident playback remains untouched.
+The published portfolio direct route returnedHTTP200 and exposed40distinct technology icon paths when inspected. Its existing icon/name strip is the visual reference. This README reuses27labelled items in four naturally wrapping rows, ordered with the Elixir ecosystem first. Images are28px with native vertical centering, and each visible English label identifies its decorative image. LiveView intentionally reuses the Phoenix symbol, as in the portfolio. The source marquee's scripts/custom CSS are not available in GitHub Markdown; this native layout keeps the same artwork and labels without a new animated image or dependency.
 
-The56px avatar sits inline before João Victor inside the main heading, using native image middle alignment. It is decorative because the heading identifies the person; the portfolio remains linked in the contact row. The PNG fallback selected by prefers-reduced-motion is preserved. Technology icons follow Elixir-first ordering. HorAgora and ASC use existing theme variants; Stone/Sicredi identifiers accompany factual experience. Relative paths keep the README self-contained, and text remains readable without images. The layout avoids floated media and side-by-side cards on narrow screens. This is native Markdown/picture/img markup with no script, stylesheet, dynamic badge service or workflow.
+All added SVG bytes are unchanged tracked public portfolio sources. Existing shared images are reused rather than duplicated. [Media sizes, hashes, sources and licenses](readme-assets.json), [Devicon MIT](../images/LICENSE.txt) and [portfolio technology notices](../images/TECHNOLOGY-LICENSES.txt) record provenance, Simple Icons CC0, Git CC BY3.0 and brand boundaries. Project/employer marks do not imply endorsement. Previously added employer identifiers are retained in the source inventory but are not shown in the personal README.
 
-[Media provenance, hashes, sizes and reproduction](readme-assets.json). [Devicon MIT license](../images/LICENSE.txt). Project/employer artwork identifies the respective organization; it does not imply endorsement. GitHub format reference: [working with non-code files](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files). Motion follows viewer/browser support and the reader's GitHub accessibility settings.
+## Verification and publication boundary
 
-## Validation and publication boundary
+Verification covers native GitHub Markdown rendering, all image paths, exact source hashes, SVG safety, visible labels, header/body structure and local whitespace. Browser review covers wrapping, narrow screens and the live profile after publication. No new cosmetic automated test or remote development test pipeline is required. Preparing this branch is not evidence of publication; canonical Obsidian notes record actual PR/main/profile state once observed.
 
-Validation covers native Markdown rendering, media dimensions/frame count/transparency, local paths, source hashes, outgoing content and public destinations. Browser inspection covers the GitHub-rendered branch preview and profile bio. No new cosmetic automated test is required; execution evidence and limitations are recorded in the canonical note once observed. Preparing this branch does not prove that main or the public README changed.
+The base contains no GitHub Actions workflow. One new internal worktree/branch/PR is used because the preceding alignment PR was already merged. DraftPR1 remains untouched. This change does not deploy the portfolio or change Search Console, account authentication or privacy settings.
 
-The base tree has no GitHub Actions workflow. No remote development test pipeline, infrastructure change or website deploy belongs to this delivery. Previous PR1 stays untouched. The follow-up uses one new internal worktree and branch/PR after PR3 was merged.
+## Costs
 
-## Cost assessment
+Static copy and reused public SVGs only; no new render/generation, provider, dependency, subscription, recurring job or remote test pipeline. Existing GIF media are unchanged. Transfer scenario remains uncached profile reads×bytes actually fetched for the chosen images, with cache/proxy behavior determining real traffic. Traffic, tariffs and monthly bill remain unknown. Source asset sizes and the added SVG/license inventory are recorded in the manifest; the canonical portfolio costs note records the final measured file delta.
 
-The inline-heading follow-up changes only Markdown/documentation; it reuses the exact media from PR3 and adds no asset, render, dependency, provider charge, subscription or recurring job. The initial GIF format conversion completed in0.18seconds with37,011,456B maximum RSS; this is measured format-conversion cost, not a new3D render. A second short conversion made complete GIF frames and a neutral transparent palette. Runtime transfer scenario remains uncached profile reads×bytes actually fetched for GIF/poster/theme icons, with cache/proxy behavior determining real transfer. Traffic, unit tariffs, compute/energy billing and monthly amount are unknown. No remote test pipeline was run.
-
-Canonical context, copy, bio and publication evidence remain in Obsidian portfolio/github-profile.md. This file describes the repository revision and its real publication boundary.
+Canonical personal copy, preferences, provenance and publication evidence remain in Obsidian portfolio/github-profile.md. This document describes the repository revision and its real publication boundary.
