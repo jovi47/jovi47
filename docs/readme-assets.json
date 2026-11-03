@@ -1,0 +1,111 @@
+{
+  "updated_utc": "2026-11-03",
+  "purpose": "English GitHub profile README media",
+  "avatar": {
+    "source_webm_sha256": "e9ca5e237cd57e607302f713936ede131ffa9157992eafe366bc6d199a65cd38",
+    "motion": "Existing rigid turn and small hop; not an articulated hand wave. Separate approved presentation from the later Brick Figure used in the portfolio scene.",
+    "output": "256x256 GIF, 12fps, 30 frames, 2.5 seconds, one playback; PNG reduced-motion fallback.",
+    "conversion": "ffmpeg -threads 1 -c:v libvpx-vp9 -i jovi-wave.webm -filter_complex_threads 1 -filter_complex \"fps=12,scale=256:256:flags=lanczos,split[a][b];[a]palettegen=reserve_transparent=1:transparency_color=0x000000:stats_mode=diff[p];[b][p]paletteuse=dither=bayer:bayer_scale=4:alpha_threshold=128\" -gifflags 0 -loop -1 jovi-avatar.gif",
+    "source_note": "Owner archive: portfolio/assets/character/README.md; full source model is not included."
+  },
+  "brand_sources": [
+    "https://horagora.com.br",
+    "https://andreasousaconsultoria.com.br",
+    "https://www.stone.com.br",
+    "https://www.sicredi.com.br/home/"
+  ],
+  "technology_source": "https://github.com/devicons/devicon/tree/6a37858047b0e8d9c9c0e68f4a071fc410652e89",
+  "licenses": "images/LICENSE.txt covers Devicon artwork; project/employer marks retain their owners’ rights.",
+  "assets": [
+    {
+      "file": "images/jovi-avatar.gif",
+      "bytes": 368089,
+      "sha256": "c6914fbe8d5be791a22618d1695701a5ef780d3ffc40e72c701c64f1c624aa0d",
+      "source": "Owner-approved preserved 3D avatar presentation; original supplied by owner via Meshy. Existing archive source retained, no new generation."
+    },
+    {
+      "file": "images/jovi-avatar.png",
+      "bytes": 36772,
+      "sha256": "7ef493dd13fc171325c7a24f9677657f96852daa1f8531bc87f50e6ed75e8704",
+      "source": "Owner-approved preserved 3D avatar presentation; original supplied by owner via Meshy. Existing archive source retained, no new generation."
+    },
+    {
+      "file": "images/elixir.svg",
+      "bytes": 4026,
+      "sha256": "17c37b03035f1704f90631d7c945b45621813f395cef4487b7fe40ad5c47be34",
+      "source": "Devicon original-color artwork reused from the portfolio; MIT collection license, brand rights retained."
+    },
+    {
+      "file": "images/phoenix.svg",
+      "bytes": 3360,
+      "sha256": "4b4b6d7c7a3ec87781a25f8f059f66f35baa15641dd6fd80e42b6ccb78f14c89",
+      "source": "Devicon original-color artwork reused from the portfolio; MIT collection license, brand rights retained."
+    },
+    {
+      "file": "images/postgresql.svg",
+      "bytes": 9178,
+      "sha256": "f220a436258ed014c512ba4f9c0de6b9e5c2c4b55331a0a29f8c7a1a12c36443",
+      "source": "Devicon original-color artwork reused from the portfolio; MIT collection license, brand rights retained."
+    },
+    {
+      "file": "images/java.svg",
+      "bytes": 1540,
+      "sha256": "7582e518a9c02425f97155e5a3bd39d1a3a7d421b78caf9c8df7443dad3edc5d",
+      "source": "Devicon original-color artwork reused from the portfolio; MIT collection license, brand rights retained."
+    },
+    {
+      "file": "images/docker.svg",
+      "bytes": 4452,
+      "sha256": "3fd830ea69431ed7a0b8d068cd5b34ad3f00a1a78195d50f13ff56713f2462e1",
+      "source": "Devicon original-color artwork reused from the portfolio; MIT collection license, brand rights retained."
+    },
+    {
+      "file": "images/aws.svg",
+      "bytes": 3743,
+      "sha256": "5b4d8371d79a5c0d3a27ea4e929f772e68d47f7d267496bf9211d5f60fcf8084",
+      "source": "Devicon original-color artwork reused from the portfolio; MIT collection license, brand rights retained."
+    },
+    {
+      "file": "images/horagora-logo.svg",
+      "bytes": 2031,
+      "sha256": "091c0d98902148b0adb5f67761ef506e10d5e3d2bc3cc01988b8f95e398d8f44",
+      "source": "Approved project brand artwork reused from the published portfolio."
+    },
+    {
+      "file": "images/horagora-logo-dark.svg",
+      "bytes": 2031,
+      "sha256": "159bcbf603c9bb7a82834026c544a75cd80885f1ec4b2e20ce7794575267bd2f",
+      "source": "Approved project brand artwork reused from the published portfolio."
+    },
+    {
+      "file": "images/asc-symbol.svg",
+      "bytes": 977,
+      "sha256": "d66c82648f27a80c41cb272c945b38a040c312b775a68b491715a3d6b52664e3",
+      "source": "Approved project brand artwork reused from the published portfolio."
+    },
+    {
+      "file": "images/asc-symbol-dark.svg",
+      "bytes": 977,
+      "sha256": "2dba838101fde5f8c335c3401b8077a2f715c5d0753ff9d16a70645fb0c0f5c2",
+      "source": "Approved project brand artwork reused from the published portfolio."
+    },
+    {
+      "file": "images/stone.png",
+      "bytes": 799,
+      "sha256": "6fba8d32fd45559add01ed92832f629b1e05c1425eb3c4d9e9d6d3dd4d960117",
+      "source": "Official employer identifier reused from the portfolio career sources; no endorsement implied."
+    },
+    {
+      "file": "images/sicredi.svg",
+      "bytes": 4137,
+      "sha256": "1016358ad7a4f0fcf5ba9b24a0614b50636718bc762820da78a36d35768a2ae5",
+      "source": "Official employer identifier reused from the portfolio career sources; no endorsement implied."
+    },
+    {
+      "file": "images/LICENSE.txt",
+      "bytes": 1072,
+      "sha256": "121194741d4a915b9f5890fdd6dd95121f9b1f816517c792358d72d7c838d664",
+      "source": "Devicon MIT license, copyright (c) 2015 konpa."
+    }
+  ]
+}
