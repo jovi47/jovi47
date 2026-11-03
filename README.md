@@ -1,59 +1,58 @@
-# João Victor · ojoaovsousa
+<p align="center">
+  <a href="https://ojoaovsousa.pages.dev/en/">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="images/jovi-avatar.png">
+      <img src="images/jovi-avatar.gif" width="160" height="160" alt="My 3D toy-brick avatar greeting visitors">
+    </picture>
+  </a>
+</p>
 
-**Engenheiro de software · Software feito para o seu negócio**
+# João Victor
 
-[Conheça meu portfólio](https://ojoaovsousa.pages.dev/pt-br/) · [English](#english) · [Fale comigo](https://wa.me/5579998230872)
+**Backend Software Engineer · Elixir & Phoenix**
 
-## Português
+<p>
+  <img src="images/elixir.svg" width="34" height="34" alt="Elixir" title="Elixir">&nbsp;
+  <img src="images/phoenix.svg" width="34" height="34" alt="Phoenix" title="Phoenix">&nbsp;
+  <img src="images/postgresql.svg" width="34" height="34" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+  <img src="images/java.svg" width="34" height="34" alt="Java" title="Java">&nbsp;
+  <img src="images/docker.svg" width="34" height="34" alt="Docker" title="Docker">&nbsp;
+  <img src="images/aws.svg" width="34" height="34" alt="AWS" title="AWS">
+</p>
 
-Desenvolvo software sob medida, com sistemas, sites e automações que transformam ideias em soluções que as pessoas conseguem usar. A tecnologia acompanha a necessidade de cada projeto.
+I'm a backend engineer with **5+ years of experience** across fintech, ERP and SaaS. My main focus is **Elixir, Phoenix and PostgreSQL**: building APIs, automating workflows and keeping production systems reliable.
 
-São **5+ anos desenvolvendo software**, com contribuições na Stone e no Sicredi. Gosto de entender como as coisas funcionam e conectar técnica e imaginação a um problema que merece solução.
+I like understanding how a business works, untangling its rules and turning them into software that people can operate and engineers can maintain.
 
-### O que construo
+Based in **Brazil · GMT -03:00**. Interested in **international remote backend roles focused on Elixir**.
 
-- **Sistemas, sites e integrações:** regras de negócio, APIs e fluxos que fazem a operação acontecer.
-- **Automações e IA aplicada:** menos trabalho repetitivo, fontes de conhecimento com RAG, agentes e harnesses que organizam contexto, ferramentas e verificação.
-- **Experiências web e 3D:** interfaces que tornam uma ideia visível e convidam à interação. Meu portfólio explora essa combinação com LEGO.
+[Portfolio](https://ojoaovsousa.pages.dev/en/) · [LinkedIn](https://www.linkedin.com/in/jovi47/) · [Email](mailto:ojoaovsousa@gmail.com)
 
-### Projetos selecionados
+## Experience in practice
 
-- **[HorAgora](https://horagora.com.br)** — agendamento online para barbearias, salões e estúdios. Desenvolvi as experiências do negócio e do cliente, do gerenciamento da agenda à reserva de um horário.
-- **[Andréa Sousa Consultoria](https://andreasousaconsultoria.com.br)** — site para apresentar serviços de consultoria tributária, explicar o processo e orientar o primeiro contato.
+<img src="images/stone.png" width="20" height="20" alt=""> At **Stone**, I built Elixir/Phoenix backend features for risk, fraud and payment disputes. Selected results:
 
-Elixir, Java e PostgreSQL fazem parte do meu repertório. Aqui também estão projetos anteriores em Java: [xadrez em terminal](https://github.com/jovi47/Chess-Java) e [aplicação JavaFX com JDBC](https://github.com/jovi47/WorkShop-JavaFX-JDBC).
+- Cut dispute-analysis SLA by **50%** through workflow improvements and automation.
+- Refactored **70%** of a legacy risk system, increasing test coverage from **50% to 95%**.
+- Contributed to post-fraud recovery systems responsible for recovering **over US$ 3 million**.
 
-### Vamos conversar
+<img src="images/sicredi.svg" width="24" height="24" alt=""> I currently work through **Tools on Sicredi's card management system**, developing business-critical features with Java, PL/SQL and React. Java complements my Elixir-focused backend work.
 
-Quer construir, melhorar ou automatizar algo? A conversa começa pelo seu contexto.
+## Technologies I work with
 
-[Portfólio](https://ojoaovsousa.pages.dev/pt-br/) · [E-mail](mailto:jovi47profissional@gmail.com) · [WhatsApp](https://wa.me/5579998230872) · [LinkedIn](https://www.linkedin.com/in/jovi47/)
+- **Elixir backend:** Elixir, Phoenix, LiveView, Ecto, Oban and ExUnit.
+- **Data and APIs:** PostgreSQL, SQL, PL/SQL, REST APIs and GraphQL.
+- **Production:** AWS, Docker, Kubernetes, CI/CD, Kafka and RabbitMQ.
+- **Java ecosystem:** Java, Spring Boot, Hibernate, JPA, JUnit, Mockito and WireMock.
+- **Full-stack delivery:** React, Next.js and TypeScript.
 
----
+## Selected work
 
-## English
+- <picture><source media="(prefers-color-scheme: dark)" srcset="images/asc-symbol-dark.svg"><img src="images/asc-symbol.svg" width="26" height="26" alt=""></picture> **ASC-Hub:** built an internal platform from scratch with Elixir/Phoenix, LiveView and PostgreSQL, centralizing clients, contracts, documents and operational workflows. I handled API integrations, access controls, audit logging and deployment. [Consultancy website](https://andreasousaconsultoria.com.br).
+- [<picture><source media="(prefers-color-scheme: dark)" srcset="images/horagora-logo-dark.svg"><img src="images/horagora-logo.svg" width="94" height="22" alt="HorAgora"></picture>](https://horagora.com.br) — online scheduling for barbershops, salons and studios. I developed the business and customer experiences, from managing availability to booking an appointment.
 
-**Software engineer · Software built for your business**
+I also explore applied AI, including RAG, agents and harnesses, and interactive web/3D experiences. My [portfolio](https://ojoaovsousa.pages.dev/en/) brings that mix together through a LEGO-inspired experience.
 
-I build custom software, websites and automation that turn ideas into solutions people can use. Technology follows the needs of each project.
+Earlier Java projects include [terminal chess](https://github.com/jovi47/Chess-Java) and a [JavaFX application with JDBC](https://github.com/jovi47/WorkShop-JavaFX-JDBC).
 
-I have **5+ years developing software**, with contributions at Stone and Sicredi. I enjoy understanding how things work and connecting craft and imagination to a problem worth solving.
-
-### What I build
-
-- **Software, websites and integrations:** business rules, APIs and the workflows that keep operations moving.
-- **Automation and applied AI:** less repetitive work, knowledge sources with retrieval-augmented generation (RAG), agents and harnesses that organise context, tools and checks.
-- **Web and 3D experiences:** interfaces that make an idea visible and invite interaction. My portfolio explores that combination with LEGO.
-
-### Selected projects
-
-- **[HorAgora](https://horagora.com.br)** — online scheduling for barbershops, salons and studios. I developed the business and customer experiences, from managing the diary to booking an available time.
-- **[Andréa Sousa Consultoria](https://andreasousaconsultoria.com.br)** — a website presenting tax consultancy services, explaining the process and guiding the first contact.
-
-Elixir, Java and PostgreSQL are part of my toolkit. Earlier Java projects include [terminal chess](https://github.com/jovi47/Chess-Java) and a [JavaFX application with JDBC](https://github.com/jovi47/WorkShop-JavaFX-JDBC).
-
-### Let's talk
-
-Want to build, improve or automate something? Your context is where the conversation starts.
-
-[Portfolio](https://ojoaovsousa.pages.dev/en/) · [Email](mailto:jovi47profissional@gmail.com) · [WhatsApp](https://wa.me/5579998230872) · [LinkedIn](https://www.linkedin.com/in/jovi47/)
+For opportunities or project enquiries, reach me at **[ojoaovsousa@gmail.com](mailto:ojoaovsousa@gmail.com)**.
