@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://ojoaovsousa.pages.dev/pt-br/"><img src="https://ojoaovsousa.pages.dev/portrait.jpg" width="104" alt="João Victor"></a>
-</p>
-
 # João Victor · ojoaovsousa
 
 **Engenheiro de software · Software feito para o seu negócio**
