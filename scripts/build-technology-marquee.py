@@ -62,7 +62,7 @@ def build(items, color):
         lengths.append(x)
         rows.append(f'<g id="row-{index}">' + "".join(content) + "</g>")
     belts = "\n".join(f'<g transform="translate(12 {y})"><g class="belt-{index}"><use href="#row-{index}"/><use href="#row-{index}" x="{length}"/></g></g>' for index, (length, y) in enumerate(zip(lengths, (16, 64)), start=1))
-    result = f'''<svg xmlns="{SVG}" width="840" height="108" role="img" aria-labelledby="title description">
+    result = f'''<svg xmlns="{SVG}" width="100%" height="108" role="img" aria-labelledby="title description">
 <title id="title">{html.escape(labels)}</title>
 <desc id="description">Two gently scrolling rows of technology icons and names. Motion stops when reduced motion is preferred. The README also provides every technology in a static list. Artwork and licenses: images/LICENSE.txt and images/TECHNOLOGY-LICENSES.txt.</desc>
 <style>
@@ -106,7 +106,7 @@ def main():
     manifest["technology_marquee"] = {
         "source": "README.md static technology list and existing images/*.svg; portfolio src/skills.mjs and public/technology-marquee.css are the layout reference.",
         "outputs": list(OUTPUTS),
-        "viewport": "840x108 CSS pixels, no root viewBox; constrained image width clips the moving rows instead of shrinking labels.",
+        "viewport": "Root width=100%, height=108, no root viewBox; the SVG viewport follows the image width while retaining native icon/label coordinates. README img requests 840x108 pixels.",
         "motion": "Two seamless repeated rows, 56s left / 62s right; CSS prefers-reduced-motion disables both animations.",
         "accessibility": "All 27 names in image alt and SVG title; the native static icon/name list remains available in README details.",
         "generation": "python3 scripts/build-technology-marquee.py; --check verifies deterministic outputs, embedded paths, names, IDs and local-only references.",
