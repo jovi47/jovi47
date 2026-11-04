@@ -8,6 +8,8 @@ The short introduction reuses the approved portfolio About text: curiosity about
 
 The name heading preserves the56px inline GIF and reduced-motion PNG fallback from PR4. The real account photograph and portfolio scene are outside this revision.
 
+The header places the Brazilian flag, location, UTC offset and availability directly below the professional-role line, followed by Portfolio, LinkedIn and Email links. These native Markdown lines wrap naturally, preserve the existing destinations and replace the former bottom location/contact block. The introduction, projects and technology rows are unchanged by this navigation adjustment.
+
 ## Technology presentation
 
 The published portfolio direct route returnedHTTP200 and exposed40distinct technology icon paths when inspected. Its existing icon/name strip is the visual reference. This README reuses27labelled items in four naturally wrapping rows, ordered with the Elixir ecosystem first. Images are28px with native vertical centering, and each visible English label identifies its decorative image. Native picture wrappers prevent GitHub from turning those decorative icons into unnamed image links; the visible layout and copy are unchanged. LiveView intentionally reuses the Phoenix symbol, as in the portfolio. The source marquee's scripts/custom CSS are not available in GitHub Markdown; this native layout keeps the same artwork and labels without a new animated image or dependency.
