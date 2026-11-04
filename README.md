@@ -8,6 +8,10 @@
 
 **Software engineer · Elixir & Phoenix**
 
+🇧🇷 Brazil · GMT -03:00 · Open to remote Elixir opportunities.
+
+[Portfolio](https://ojoaovsousa.pages.dev/en/) · [LinkedIn](https://www.linkedin.com/in/jovi47/) · [Email](mailto:ojoaovsousa@gmail.com)
+
 I'm a software engineer from Brazil with **5+ years of experience**. **Elixir** is my main language, usually alongside Phoenix and PostgreSQL. I enjoy turning ideas into useful systems and seeing them become part of someone's day.
 
 Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. I'm also curious about applied AI, RAG and agents, and I like learning by making things.
@@ -58,7 +62,3 @@ Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. 
   <picture><img src="images/agents.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;Agents&nbsp;&nbsp;
   <picture><img src="images/3d.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;3D&nbsp;&nbsp;
 </p>
-
-Brazil · GMT -03:00 · Open to remote Elixir opportunities.
-
-[Portfolio](https://ojoaovsousa.pages.dev/en/) · [LinkedIn](https://www.linkedin.com/in/jovi47/) · [Email](mailto:ojoaovsousa@gmail.com)
