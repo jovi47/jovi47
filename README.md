@@ -14,9 +14,9 @@ Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. 
 
 ## A few things I've built
 
-- <picture><source media="(prefers-color-scheme: dark)" srcset="images/asc-symbol-dark.svg"><img src="images/asc-symbol.svg" width="24" height="24" align="absmiddle" alt=""></picture> **ASC-Hub** — an Elixir/Phoenix platform for clients, contracts, documents and day-to-day operations. [Consultancy website](https://andreasousaconsultoria.com.br).
+- [<picture><source media="(prefers-color-scheme: dark)" srcset="images/asc-symbol-dark.svg"><img src="images/asc-symbol.svg" width="24" height="24" align="absmiddle" alt="ASC-Hub consultancy website"></picture>](https://andreasousaconsultoria.com.br) **ASC-Hub** — an Elixir/Phoenix platform for clients, contracts, documents and day-to-day operations.
 - [<picture><source media="(prefers-color-scheme: dark)" srcset="images/horagora-logo-dark.svg"><img src="images/horagora-logo.svg" width="94" height="22" align="absmiddle" alt="HorAgora"></picture>](https://horagora.com.br) — scheduling software for barbershops, salons and studios.
-- <picture><img src="images/3d.svg" width="24" height="24" align="absmiddle" alt=""></picture> **[My portfolio](https://ojoaovsousa.pages.dev/en/)** — a LEGO-inspired 3D world for exploring my projects and ideas.
+- [<picture><source media="(prefers-color-scheme: dark)" srcset="images/portfolio-wordmark-dark.svg"><img src="images/portfolio-wordmark.svg" width="180" height="22" align="absmiddle" alt="ojoaovsousa portfolio"></picture>](https://ojoaovsousa.pages.dev/en/) — a LEGO-inspired 3D world for exploring my projects and ideas.
 
 ## Technologies I use
 

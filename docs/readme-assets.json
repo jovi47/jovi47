@@ -12,7 +12,8 @@
     "https://horagora.com.br",
     "https://andreasousaconsultoria.com.br",
     "https://www.stone.com.br",
-    "https://www.sicredi.com.br/home/"
+    "https://www.sicredi.com.br/home/",
+    "https://ojoaovsousa.pages.dev/en/"
   ],
   "technology_source": "https://github.com/devicons/devicon/tree/6a37858047b0e8d9c9c0e68f4a071fc410652e89",
   "licenses": "images/LICENSE.txt covers Devicon; images/TECHNOLOGY-LICENSES.txt retains portfolio source notices including Simple Icons CC0 and Git CC BY3.0. Project/employer marks and Oban retain their owners’ rights; concept icons are project-owned.",
@@ -252,6 +253,20 @@
       "bytes": 9688,
       "sha256": "b3a2c65ffdafecba8d3e1930ecfa8a07788863d943fb37e136516d9766605a9a",
       "source": "Published portfolio technology icon notices: CC0, Devicon MIT, Git CC BY3.0, project-owned concepts and original brand rights. Only a subset of the credited collection is used."
+    },
+    {
+      "file": "images/portfolio-wordmark.svg",
+      "bytes": 2793,
+      "sha256": "402a3223f7586a1caaf7d89413a19b7b175dbe1a0fc817cd63c4c3cd8f9a8c02",
+      "source": "Existing public portfolio header: ojoaovsousa in Pixelify regular 400, 32px, -1px tracking. Glyph outlines exported locally through macOS CoreText from public/pixelify.woff2 (source SHA-256 0f2216c1b7bf13b775e7b825c15e1c8414f3899cbd4120f275cdc96001a053a0). Light/dark fill only; no embedded font or external resource.",
+      "license": "Original personal wordmark derived from the existing approved portfolio identity."
+    },
+    {
+      "file": "images/portfolio-wordmark-dark.svg",
+      "bytes": 2793,
+      "sha256": "21cd5a722bd00c6998acb46ab07a4dcf35a429de8ac4d3c91d43a7de72dffbb0",
+      "source": "Existing public portfolio header: ojoaovsousa in Pixelify regular 400, 32px, -1px tracking. Glyph outlines exported locally through macOS CoreText from public/pixelify.woff2 (source SHA-256 0f2216c1b7bf13b775e7b825c15e1c8414f3899cbd4120f275cdc96001a053a0). Light/dark fill only; no embedded font or external resource.",
+      "license": "Original personal wordmark derived from the existing approved portfolio identity."
     }
   ]
 }
