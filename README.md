@@ -8,17 +8,34 @@
 
 **Software engineer · Elixir & Phoenix**
 
+🇧🇷 Brazil · GMT -03:00 · Open to remote Elixir opportunities.
+
+[Portfolio](https://ojoaovsousa.pages.dev/en/) · [LinkedIn](https://www.linkedin.com/in/jovi47/) · [Email](mailto:ojoaovsousa@gmail.com)
+
 I'm a software engineer from Brazil with **5+ years of experience**. **Elixir** is my main language, usually alongside Phoenix and PostgreSQL. I enjoy turning ideas into useful systems and seeing them become part of someone's day.
 
 Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. I'm also curious about applied AI, RAG and agents, and I like learning by making things.
 
 ## A few things I've built
 
-- <picture><source media="(prefers-color-scheme: dark)" srcset="images/asc-symbol-dark.svg"><img src="images/asc-symbol.svg" width="24" height="24" align="absmiddle" alt=""></picture> **ASC-Hub** — an Elixir/Phoenix platform for clients, contracts, documents and day-to-day operations. [Consultancy website](https://andreasousaconsultoria.com.br).
+- [<picture><source media="(prefers-color-scheme: dark)" srcset="images/asc-symbol-dark.svg"><img src="images/asc-symbol.svg" width="24" height="24" align="absmiddle" alt="ASC-Hub consultancy website"></picture>](https://andreasousaconsultoria.com.br) **ASC-Hub** — an Elixir/Phoenix platform for clients, contracts, documents and day-to-day operations.
 - [<picture><source media="(prefers-color-scheme: dark)" srcset="images/horagora-logo-dark.svg"><img src="images/horagora-logo.svg" width="94" height="22" align="absmiddle" alt="HorAgora"></picture>](https://horagora.com.br) — scheduling software for barbershops, salons and studios.
-- <picture><img src="images/3d.svg" width="24" height="24" align="absmiddle" alt=""></picture> **[My portfolio](https://ojoaovsousa.pages.dev/en/)** — a LEGO-inspired 3D world for exploring my projects and ideas.
+- [<picture><source media="(prefers-color-scheme: dark)" srcset="images/portfolio-wordmark-dark.svg"><img src="images/portfolio-wordmark.svg" width="180" height="22" align="absmiddle" alt="ojoaovsousa portfolio"></picture>](https://ojoaovsousa.pages.dev/en/) — a LEGO-inspired 3D world for exploring my projects and ideas.
 
 ## Technologies I use
+
+<details open>
+<summary>Animated technologies · hide/show</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/technologies-dark.svg">
+  <img src="images/technologies.svg" width="840" height="108" alt="Elixir, Phoenix, LiveView, Ecto, Oban, PostgreSQL, Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Docker, Kubernetes, AWS, Fly.io, GraphQL, RabbitMQ, Python, MongoDB, MySQL, Git, HTML, CSS, RAG, Agents and 3D">
+</picture>
+
+</details>
+
+<details>
+<summary>All technologies (static list)</summary>
 
 <p>
   <picture><img src="images/elixir.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;Elixir&nbsp;&nbsp;
@@ -59,6 +76,5 @@ Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. 
   <picture><img src="images/3d.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;3D&nbsp;&nbsp;
 </p>
 
-Brazil · GMT -03:00 · Open to remote Elixir opportunities.
+</details>
 
-[Portfolio](https://ojoaovsousa.pages.dev/en/) · [LinkedIn](https://www.linkedin.com/in/jovi47/) · [Email](mailto:ojoaovsousa@gmail.com)
