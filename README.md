@@ -28,8 +28,8 @@ Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. 
 <summary>Animated technologies · hide/show</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/technologies-dark.svg">
-  <img src="images/technologies.svg" width="840" height="108" alt="Elixir, Phoenix, LiveView, Ecto, Oban, PostgreSQL, Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Docker, Kubernetes, AWS, Fly.io, GraphQL, RabbitMQ, Python, MongoDB, MySQL, Git, HTML, CSS, RAG, Agents and 3D">
+  <source media="(prefers-color-scheme: dark)" srcset="images/technologies-dark.svg?v=percent-width">
+  <img src="images/technologies.svg?v=percent-width" width="840" height="108" alt="Elixir, Phoenix, LiveView, Ecto, Oban, PostgreSQL, Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Docker, Kubernetes, AWS, Fly.io, GraphQL, RabbitMQ, Python, MongoDB, MySQL, Git, HTML, CSS, RAG, Agents and 3D">
 </picture>
 
 </details>
