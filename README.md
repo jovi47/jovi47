@@ -20,6 +20,19 @@ Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. 
 
 ## Technologies I use
 
+<details open>
+<summary>Animated technologies · hide/show</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/technologies-dark.svg">
+  <img src="images/technologies.svg" width="840" height="108" alt="Elixir, Phoenix, LiveView, Ecto, Oban, PostgreSQL, Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Docker, Kubernetes, AWS, Fly.io, GraphQL, RabbitMQ, Python, MongoDB, MySQL, Git, HTML, CSS, RAG, Agents and 3D">
+</picture>
+
+</details>
+
+<details>
+<summary>All technologies (static list)</summary>
+
 <p>
   <picture><img src="images/elixir.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;Elixir&nbsp;&nbsp;
   <picture><img src="images/phoenix.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;Phoenix&nbsp;&nbsp;
@@ -58,6 +71,8 @@ Outside coding, I enjoy building LEGO and exploring interactive 3D experiences. 
   <picture><img src="images/agents.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;Agents&nbsp;&nbsp;
   <picture><img src="images/3d.svg" width="28" height="28" align="absmiddle" alt=""></picture>&nbsp;3D&nbsp;&nbsp;
 </p>
+
+</details>
 
 Brazil · GMT -03:00 · Open to remote Elixir opportunities.
 

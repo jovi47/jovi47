@@ -252,6 +252,32 @@
       "bytes": 9688,
       "sha256": "b3a2c65ffdafecba8d3e1930ecfa8a07788863d943fb37e136516d9766605a9a",
       "source": "Published portfolio technology icon notices: CC0, Devicon MIT, Git CC BY3.0, project-owned concepts and original brand rights. Only a subset of the credited collection is used."
+    },
+    {
+      "file": "images/technologies.svg",
+      "bytes": 68360,
+      "sha256": "5de603b74a26dbee28b76a04b24e44522f6a55abb4b71e1fb9b2b4ca7f8ad130",
+      "source": "Self-contained composition of the 26 existing technology SVGs, reused for 27 labels; no external image/font requests.",
+      "license": "Original notices retained in images/LICENSE.txt and images/TECHNOLOGY-LICENSES.txt; brand rights retained."
+    },
+    {
+      "file": "images/technologies-dark.svg",
+      "bytes": 68360,
+      "sha256": "142d01cc32273db3636cfe437ad306c2316bec62f5e5d08c6576d205b141ff34",
+      "source": "Self-contained composition of the 26 existing technology SVGs, reused for 27 labels; no external image/font requests.",
+      "license": "Original notices retained in images/LICENSE.txt and images/TECHNOLOGY-LICENSES.txt; brand rights retained."
     }
-  ]
+  ],
+  "technology_marquee": {
+    "source": "README.md static technology list and existing images/*.svg; portfolio src/skills.mjs and public/technology-marquee.css are the layout reference.",
+    "outputs": [
+      "images/technologies.svg",
+      "images/technologies-dark.svg"
+    ],
+    "viewport": "840x108 CSS pixels, no root viewBox; constrained image width clips the moving rows instead of shrinking labels.",
+    "motion": "Two seamless repeated rows, 56s left / 62s right; CSS prefers-reduced-motion disables both animations.",
+    "accessibility": "All 27 names in image alt and SVG title; the native static icon/name list remains available in README details.",
+    "generation": "python3 scripts/build-technology-marquee.py; --check verifies deterministic outputs, embedded paths, names, IDs and local-only references.",
+    "source_artwork": "Original path geometry and paint retained, with collision-safe local IDs; source files and license notices unchanged."
+  }
 }
